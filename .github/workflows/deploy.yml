@@ -1,4 +1,5 @@
 name: Check and Deploy Website
+# CI/CD pipeline for the student static website
 
 on:
   push:
